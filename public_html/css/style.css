@@ -1,0 +1,37 @@
+/* 
+    Created on : Sep 10, 2016, 2:07:19 PM
+    Author     : Diego Alves
+*/
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    padding-top: 50px;
+}
+
+section {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    font-weight: 800;
+}
+
+.divslider {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(../imgs/background.jpg);
+}
+
+.div-colored {
+    background: url(../imgs/background.jpg);
+}
+
+.align-texts {
+    text-align: center;
+}
+
